@@ -11,8 +11,8 @@
   <body>
 
 <?php
-echo "Jay Ganesh";
-echo "Jay Shree Krishna";
+echo "Jay Ganesh<br>";
+echo "Jay Shree Krishna<br>";
 
 
 ?>
